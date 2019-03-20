@@ -6,7 +6,11 @@ import com.alibaba.druid.pool.DruidPooledConnection;
 import javax.sql.DataSource;
 import java.sql.SQLException;
 import java.sql.Statement;
-
+/**
+ * ≤‚ ‘git
+ * @author Administrator
+ *
+ */
 public class JDBCDemo {
     public static void main(String[] args) throws SQLException {
         DruidDataSource druidDataSource=new DruidDataSource();
