@@ -7,7 +7,7 @@ import javax.sql.DataSource;
 import java.sql.SQLException;
 import java.sql.Statement;
 /**
- * ²âÊÔgit
+ * æµ‹è¯•git
  * @author Administrator
  *
  */
