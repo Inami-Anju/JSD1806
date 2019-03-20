@@ -4,6 +4,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 /**
+ * 新课程安排
  * 线程池
  * 线程池主要有两个作用:
  * 1:重用线程
